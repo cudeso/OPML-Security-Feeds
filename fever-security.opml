@@ -77,5 +77,13 @@
 	<outline type="rss" text="Palo Alto Networks Blog" title="Palo Alto Networks Blog" xmlUrl="http://researchcenter.paloaltonetworks.com/feed/" htmlUrl="http://researchcenter.paloaltonetworks.com"/>
 	<outline type="rss" text="Objective-See's Blog" title="Objective-See's Blog" xmlUrl="https://objective-see.com/rss.xml" htmlUrl="https://www.objective-see.com"/>
 	<outline type="rss" text="This is Security :: by Stormshield" title="This is Security :: by Stormshield" xmlUrl="http://thisissecurity.net/feed/" htmlUrl="http://thisissecurity.net"/>
+	<outline type="rss" text="techblog.netflix.com" title="techblog.netflix.com" xmlUrl="http://techblog.netflix.com/" htmlUrl=""/>
+	<outline type="rss" text="Johannes Bader's Blog" title="Johannes Bader's Blog" xmlUrl="https://johannesbader.ch/feed.xml" htmlUrl="https://johannesbader.ch"/>
+	<outline type="rss" text="SCADA StrangeLove" title="SCADA StrangeLove" xmlUrl="http://scadastrangelove.blogspot.com/feeds/posts/default" htmlUrl="http://scadastrangelove.blogspot.com/"/>
+	<outline type="rss" text="Stories by Matt Suiche on Medium" title="Stories by Matt Suiche on Medium" xmlUrl="https://medium.com/feed/@msuiche" htmlUrl="https://medium.com/@msuiche?source=rss-bac3a09af3b4------2"/>
+	<outline type="rss" text="Stories by Alex Stamos on Medium" title="Stories by Alex Stamos on Medium" xmlUrl="https://medium.com/feed/@alexstamos" htmlUrl="https://medium.com/@alexstamos?source=rss-131839c8b00a------2"/>
+	<outline type="rss" text="Stories by the grugq on Medium" title="Stories by the grugq on Medium" xmlUrl="https://medium.com/feed/@thegrugq/" htmlUrl="https://medium.com/@thegrugq?source=rss-8c278323b47c------2"/>
+	<outline type="rss" text="Labs" title="Labs" xmlUrl="https://labs.detectify.com/feed/atom/" htmlUrl="https://labs.detectify.com"/>
+	<outline type="rss" text="PassiveTotal Blog" title="PassiveTotal Blog" xmlUrl="http://blog.passivetotal.org/rss/" htmlUrl="http://blog.passivetotal.org/"/>
 </body>
 </opml>

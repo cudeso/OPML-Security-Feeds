@@ -12,5 +12,6 @@
 	<outline type="rss" text="OS X Daily" title="OS X Daily" xmlUrl="http://osxdaily.com/feed/" htmlUrl="http://osxdaily.com"/>
 	<outline type="rss" text="Bits of Freedom" title="Bits of Freedom" xmlUrl="https://www.bof.nl/feed/" htmlUrl="https://www.bof.nl"/>
 	<outline type="rss" text="RIPE" title="RIPE" xmlUrl="https://labs.ripe.net/RSS" htmlUrl="https://labs.ripe.net/site-rss"/>
+	<outline type="rss" text="linux.com/feeds/rss" title="linux.com/feeds/rss" xmlUrl="https://www.linux.com/feeds/rss" htmlUrl="https://www.linux.com/feeds/rss"/>
 </body>
 </opml>
