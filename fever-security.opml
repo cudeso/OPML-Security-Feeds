@@ -85,5 +85,6 @@
 	<outline type="rss" text="Stories by the grugq on Medium" title="Stories by the grugq on Medium" xmlUrl="https://medium.com/feed/@thegrugq/" htmlUrl="https://medium.com/@thegrugq?source=rss-8c278323b47c------2"/>
 	<outline type="rss" text="Labs" title="Labs" xmlUrl="https://labs.detectify.com/feed/atom/" htmlUrl="https://labs.detectify.com"/>
 	<outline type="rss" text="PassiveTotal Blog" title="PassiveTotal Blog" xmlUrl="http://blog.passivetotal.org/rss/" htmlUrl="http://blog.passivetotal.org/"/>
+	<outline type="rss" text="//scadas.ec" title="//scadas.ec" xmlUrl="http://scadamag.infracritical.com/index.php/feed/" htmlUrl="http://scadamag.infracritical.com"/>
 </body>
 </opml>
