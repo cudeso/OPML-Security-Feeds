@@ -80,5 +80,10 @@
 	<outline type="rss" text="//scadas.ec" title="//scadas.ec" xmlUrl="http://scadamag.infracritical.com/index.php/feed/" htmlUrl="http://scadamag.infracritical.com"/>
 	<outline type="rss" text="MalwareTech" title="MalwareTech" xmlUrl="https://www.malwaretech.com/feed/" htmlUrl="https://www.malwaretech.com"/>
 	<outline type="rss" text="https://www.vanimpe.eu/feed/" title="https://www.vanimpe.eu/feed/" xmlUrl="vanimpe.eu" htmlUrl=""/>
+	<outline type="rss" text="Eric Conrad" title="Eric Conrad" xmlUrl="http://www.ericconrad.com/feeds/posts/default?alt=rss" htmlUrl="http://www.ericconrad.com/"/>
+	<outline type="rss" text="Bluejay - Furoner" title="Bluejay - Furoner" xmlUrl="https://furoner.wordpress.com/feed/" htmlUrl="https://furoner.wordpress.com"/>
+	<outline type="rss" text="0patch Blog" title="0patch Blog" xmlUrl="https://0patch.blogspot.com/feeds/posts/default" htmlUrl="http://0patch.blogspot.com/"/>
+	<outline type="rss" text="RiskIQ" title="RiskIQ" xmlUrl="https://www.riskiq.com/feed/" htmlUrl="https://www.riskiq.com"/>
+	<outline type="rss" text="360 Netlab Blog - Network Security Research Lab at 360" title="360 Netlab Blog - Network Security Research Lab at 360" xmlUrl="http://blog.netlab.360.com/rss/" htmlUrl="http://blog.netlab.360.com/"/>
 </body>
 </opml>
