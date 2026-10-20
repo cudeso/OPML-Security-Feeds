@@ -64,6 +64,7 @@
             <outline type="rss" text="MisinfoCon - Medium" title="MisinfoCon - Medium" xmlUrl="https://misinfocon.com/feed" htmlUrl="https://misinfocon.com?source=rss----498394f572f1---4"/>
             <outline type="rss" text="Marc&amp;#039;s Security Ramblings" title="Marc&amp;#039;s Security Ramblings" xmlUrl="http://marcrogers.org/feed/" htmlUrl="https://marcrogers.org"/>
             <outline type="rss" text="ICS Advisories" title="ICS Advisories" xmlUrl="http://ics-cert.us-cert.gov/advisories/advisories.xml" htmlUrl="https://www.cisa.gov/"/>
+            <outline type="rss" text="ICHI – Internet Cyber Health Index" title="ICHI – Internet Cyber Health Index" xmlUrl="https://ichi.global/api/alerts" htmlUrl="https://ichi.global"/>
             <outline type="rss" text="Kaspersky official blog" title="Kaspersky official blog" xmlUrl="http://blog.kaspersky.co.uk/feed/" htmlUrl="https://www.kaspersky.co.uk/blog"/>
             <outline type="rss" text="ENISA" title="ENISA" xmlUrl="https://www.enisa.europa.eu/search_rss?portal_type=Procurement&amp;callType%3Alist=Services&amp;callType%3Alist=Supplies&amp;callType%3Alist=Works&amp;review_state=published&amp;submit=Search" htmlUrl="https://www.enisa.europa.eu"/>
             <outline type="rss" text="CloudFlare" title="CloudFlare" xmlUrl="http://blog.cloudflare.com/rss/" htmlUrl="https://blog.cloudflare.com"/>
