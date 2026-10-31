@@ -16,6 +16,7 @@
             <outline type="rss" text="CERT-EU" title="CERT-EU" xmlUrl="http://cert.europa.eu/rss?type=category&amp;id=CERT-LatestNews&amp;language=all&amp;duplicates=false" htmlUrl="http://media.cert.europa.eu/cert/"/>
         </outline>
         <outline text="Security" title="Security">
+            <outline type="rss" text="Joho no Todai - Security (Japanese)" title="Joho no Todai - Security (Japanese)" xmlUrl="https://joho-todai.com/tag/security/rss/" htmlUrl="https://joho-todai.com/tag/security/"/>
             <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/"/>
             <outline type="rss" text="Security.NL nieuws" title="Security.NL nieuws" xmlUrl="https://www.security.nl/rss/headlines.xml" htmlUrl="https://www.security.nl"/>
             <outline type="rss" text="Proofpoint Threat Insight" title="Proofpoint Threat Insight" xmlUrl="https://www.proofpoint.com/us/threat-insight-blog.xml" htmlUrl="https://www.proofpoint.com/us/blog"/>
